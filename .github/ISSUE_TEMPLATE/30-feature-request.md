@@ -1,6 +1,9 @@
 ---
 name: Feature Request
 about: Use this template for raising a feature request
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
@@ -21,4 +24,4 @@ about: Use this template for raising a feature request
 
 **Any Other info.**
 
-[1]: /blob/master/ISSUES.md
+[1]: https://www.github.com/pbalan/pmtools/blob/master/ISSUES.md
